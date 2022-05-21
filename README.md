@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns:  He/him 👨🏽‍💻
 - ⚡ Fun fact: play cricket
 
+<img src="https://github-readme-stats.vercel.app/api?username=ashwithpoojary98&show_icons=true&&theme=dark"/>
+
