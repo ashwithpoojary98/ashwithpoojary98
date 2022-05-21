@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SDET-1 in Aurigo Software Technologies 
 - 🌱 I’m currently learning Machine learning, Full stack, Flutter
-- 💬 Ask me about 
 - 📫 How to reach me: Instagram(https://www.instagram.com/ashwith__poojary/) 
 - 😄 Pronouns:  He/him 👨🏽‍💻
 - ⚡ Fun fact: play cricket
+- 💬 Ask me about 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashwithpoojary98&show_icons=true&&theme=dark"/>
 
