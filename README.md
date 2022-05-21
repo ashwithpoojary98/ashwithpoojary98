@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on SDET-1 in Aurigo Software Technologies 
 - 🌱 I’m currently learning Machine learning, Full stack, Flutter
 - 💬 Ask me about 
-- 📫 How to reach me: 
+- 📫 How to reach me: Instagram(https://www.instagram.com/ashwith__poojary/) 
 - 😄 Pronouns:  He/him 👨🏽‍💻
 - ⚡ Fun fact: play cricket
 
