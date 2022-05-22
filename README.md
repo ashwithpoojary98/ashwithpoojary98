@@ -1,7 +1,7 @@
 ### Hi there, I'm Ashwith 👋
 
 
-I'm SDET from India who passionate about developing automation framework, contributer to the open-source. I've worked on testing Mobile and Web Application.
+I'm SDET from India who passionate about developing automation framework and contributer to the open-source. I've worked on testing Mobile and Web Application.
 
 Here are some ideas to get you started:
 
