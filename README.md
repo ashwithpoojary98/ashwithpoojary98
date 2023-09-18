@@ -1,13 +1,13 @@
 ### Hi there, I'm Ashwith 👋
 
 
-I'm SDET from India who passionate about developing automation framework and contributer to the open-source. I've worked on testing Mobile and Web Application.
+I'm SDET from India who passionate about developing automation frameworks and contributing to the open-source. I've worked on testing Mobile and Web Applications.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SDET-2 in Aurigo Software Technologies 
-- 🌱 I’m currently learning Machine learning, Full stack, Flutter
-- 📫 How to reach me: Instagram(https://www.instagram.com/ashwith__poojary/) 
+- 🌱 I’m currently learning new tech stacks
+- 📫 How to reach me: Instagram(https://www.instagram.com/ashwith__poojary/) Gmail(ashwithpoojary98@gmail.com)
 - 😄 Pronouns:  He/him 👨🏽‍💻
 - ⚡ Fun fact: play cricket
 - 💬 Ask me about 
