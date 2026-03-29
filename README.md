@@ -1,5 +1,4 @@
 ### Hi there, I'm Ashwith 👋
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashwithpoojary98&show_icons=true&theme=dark"/>
-
+![Ashwith's GitHub Stats](https://github-readme-stats-three-psi-11.vercel.app/api?username=ashwithpoojary98&show_icons=true&theme=dark)
